@@ -1,5 +1,9 @@
 
 # FinTech_Summer_Opportunities
+
+NOTE - 
+The code to download files(sec-edgar.py) was purposefully not included in the app code. Though automatic downloading of the files is key, adding this to the app code would add huge wait-times for the app to download all files and then analyse them. This would also make the demo inefficient, therefor in demo I show how this code downloads the files needed, and then switch to how the app would work. The files were also seperated to make code review easier.
+
 Application project for FinTech Summer Opportunities
 
 TECH STACK - 
