@@ -1,5 +1,5 @@
 
-# FinTech_Summer_Opportunities
+# FinTech Finanial Advisor
 
 YOUTUBE LINK TO DEMO: https://youtu.be/dTbdzrBG37s
 
